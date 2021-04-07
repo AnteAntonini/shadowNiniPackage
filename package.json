@@ -1,6 +1,6 @@
 {
   "name": "shadow-nini",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Add awesome shadows for the non-designer",
   "main": "index.js",
   "scripts": {
