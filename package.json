@@ -1,0 +1,19 @@
+{
+  "name": "shadow-nini",
+  "version": "1.1.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnteAntonini/shadowNiniPackage.git"
+  },
+  "author": "Nini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnteAntonini/shadowNiniPackage/issues"
+  },
+  "homepage": "https://github.com/AnteAntonini/shadowNiniPackage#readme"
+}
